@@ -26,7 +26,7 @@ Filter by Category: Click on the category buttons to filter emojis based on diff
 Browse Emojis: Scroll through the emoji grid to browse all available emojis.
 Copy to Clipboard: feature to copy selected emojis to the clipboard for easy use in other applications.
 
-Future Enhancements
+Future Enhancements 🥵
 Favorite Emojis: Add functionality to mark and save favorite emojis for quick access.
 Dark Mode: Add a dark mode option to enhance user experience in low-light environments.
 This Emoji Picker project showcases the power of HTML, CSS, and JavaScript in creating interactive and user-friendly web applications. It is a great example of how these technologies can be combined to provide a seamless and engaging user experience.
