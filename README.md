@@ -1,7 +1,7 @@
 😂 😃  Emoji Picker Project  😄 😅
 
 Project Description:😍
-This project is an interactive and visually appealing Emoji Picker application. It allows users to search and filter through a wide variety of emojis, categorized for easy access. 
+This project is an interactive and visually appealing Emoji Picker application.😘 It allows users to search and filter through a wide variety of emojis, categorized for easy access. 
 The application is designed to be responsive and user-friendly, providing a seamless experience across different devices.
 
 Features:
